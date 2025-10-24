@@ -36,14 +36,14 @@ export default function Login() {
         <form onSubmit={handleLogin}>
           <input
             type="email"
-            placeholder="Qualquer email"
+            placeholder="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required
           />
           <input
             type="text"
-            placeholder="Qualquer senha"
+            placeholder="senha"
             value={senha}
             onChange={(e) => setSenha(e.target.value)}
             required
@@ -51,11 +51,7 @@ export default function Login() {
           <button type="submit">Entrar no Sistema</button>
         </form>
 
-        <div style={{ marginTop: '20px', padding: '10px', background: '#f8f9fa', borderRadius: '5px' }}>
-          <p style={{ fontSize: '14px', color: '#666', margin: 0 }}>
-            <strong>Modo Desenvolvimento:</strong> Use qualquer email/senha
-          </p>
-        </div>
+    
       </div>
     </div>
   )

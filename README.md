@@ -8,7 +8,7 @@ Sistema mobile desenvolvido para professores gerenciarem turmas e atividades edu
 <img width="359" height="800" alt="image" src="https://github.com/user-attachments/assets/faa9809b-73cc-458f-ab84-01d01217efd4" />
 
 ## Cadastro de Turma
-<img width="362" height="796" alt="image" src="https://github.com/user-attachments/assets/575dfcf5-fa7b-4aa3-962d-4d25095bd04f" />
+
 
 ## Nova Turma
 <img width="356" height="796" alt="image" src="https://github.com/user-attachments/assets/21992dd3-77a8-4976-935d-b6d65fb22bfa" />
