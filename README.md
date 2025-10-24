@@ -5,26 +5,29 @@ Sistema mobile desenvolvido para professores gerenciarem turmas e atividades edu
 ## Prints do programa
 
 ## Tela de Login
-<img width="359" height="800" alt="image" src="https://github.com/user-attachments/assets/faa9809b-73cc-458f-ab84-01d01217efd4" />
+<img width="421" height="818" alt="image" src="https://github.com/user-attachments/assets/f1426af7-17b6-4d23-8277-8facc3f03dea" />
+
 
 ## Cadastro de Turma
-
+<img width="419" height="839" alt="image" src="https://github.com/user-attachments/assets/44150227-1961-45ae-b456-c2da613e7b65" />
 
 ## Nova Turma
 <img width="356" height="796" alt="image" src="https://github.com/user-attachments/assets/21992dd3-77a8-4976-935d-b6d65fb22bfa" />
 
 ## Cadastro Atividade
-<img width="356" height="784" alt="image" src="https://github.com/user-attachments/assets/aa342ff6-d864-498d-9a7b-cc94d490127a" />
+<img width="427" height="821" alt="image" src="https://github.com/user-attachments/assets/12946adb-d392-481b-9c49-c530e1e2db38" />
+
 
 ## Nova Atividade
-<img width="354" height="791" alt="image" src="https://github.com/user-attachments/assets/65201a17-0218-4dad-a6e9-89fa84d39754" />
+<img width="423" height="807" alt="image" src="https://github.com/user-attachments/assets/0304ebea-af38-497e-971e-0aa1ed560d79" />
+
 
 Desenvolvedor
-Gabriel B. Zanon
+Marcos Vinicius de Oliveira
 
-GitHub: GabrielBZanon
+GitHub: ViciousMark
 
-Repositório: aula06
+Repositório: aula06-main
 
 Versão 1.0 - Sistema de Gestão Escolar Mobile
 
